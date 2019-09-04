@@ -1,0 +1,57 @@
+.bold {
+  font-weight: bold;
+}
+.italics {
+  font-style: italic;
+}
+h1 {
+  font-variant: small-caps;
+  color: #00008b;
+  text-align: left;
+}
+div {
+  border-width: thin;
+  border-style: dotted;
+  border-color: #00008b;
+  border-radius: 15px;
+  background-color: #eee;
+  width: 650px;
+  margin: 20px;
+  padding: 15px;
+}
+p {
+  font-family: arial, sans-serif;
+}
+img {
+  border: 0;
+  padding: 15px;
+  height: 300px;
+  width: 200px;
+  float: left;
+}
+blockquote {
+  font-family: arial, sans-serif;
+}
+a {
+  font-family: arial, sans-serif;
+  color: #8b0000;
+  text-decoration: none;
+}
+a:link {
+  font-weight: bold;
+}
+a:hover {
+  background-color: #8b0000;
+  color: #eee;
+}
+h2 {
+  font-variant: small-caps;
+  color: #00008b;
+  text-align: left;
+}
+h3 {
+  font-variant: small-caps;
+  color: #00008b;
+  text-align: left;
+}
+
